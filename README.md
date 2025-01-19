@@ -9,7 +9,11 @@ Real-Time API: Provides a Flask-based API for fetching recommendations dynamical
 Technologies Used
 
 Python: Main programming language.
+
 Flask: For building the REST API.
+
 Pandas, NumPy: For data manipulation and analysis.
+
 scikit-learn, SciPy: For similarity calculations and SVD implementation.
+
 Matplotlib, Seaborn: For visualizing data insights.
